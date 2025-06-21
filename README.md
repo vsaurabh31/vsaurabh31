@@ -11,8 +11,6 @@ I’m a detail-oriented software engineer with **6+ years of experience** buildi
 - OneCricket Platform
 - Admin portals & live match systems
 
-📝 **Blogs**: [techiebundle.com](https://techiebundle.com)
-
 📫 **How to reach me**: [vsaurabh31@gmail.com](mailto:vsaurabh31@gmail.com)
 
 🔗 **Connect with me**:  
